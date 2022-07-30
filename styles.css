@@ -1,0 +1,13 @@
+body 
+{
+	margin-right: 20rem;
+	margin-left:20rem 
+}
+
+.title {
+   text-align:center;
+}
+
+p {
+	background: gray;
+}
